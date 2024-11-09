@@ -4,6 +4,11 @@
 @import url(table.css);
 @import url(feynman.css);
 @import url(footer.css);
+@import url(techniques.css);
+@import url(video.css);
+@import url(oakley.css);
+@import url(khan.css);
+@import url(resourses.css);
 
 * {
   margin: 0;
@@ -43,7 +48,7 @@
 .digits {
   align-items: center;
 
-  padding-bottom: 100px;
+  margin: 100px 0;
 }
 
 .section-title {

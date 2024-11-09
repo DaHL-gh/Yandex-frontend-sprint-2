@@ -1,0 +1,47 @@
+.techniques {
+    width: 80%;
+
+    margin: 100px auto;
+}
+
+.cards {
+    margin: auto;
+
+    display: flex;
+    flex-wrap: wrap;
+
+    width: 920px;
+
+    column-gap: 100px;
+}
+
+.cards__item {
+    width: 240px;
+    margin-top: 60px;
+}
+
+.cards__image {
+    border-radius: 50%;
+
+    display: block;
+
+    margin: 0 40px;
+
+    width: 160px;
+    height: 160px;
+}
+
+.cards__title {
+    line-height: 1.15;
+    font-size: 24px;
+    font-weight: 600;
+    margin: 43px 0 16px 0;
+    text-align: center;
+}
+
+.cards__description {
+    line-height: 23px;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+}
